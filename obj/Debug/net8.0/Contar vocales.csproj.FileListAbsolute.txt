@@ -1,0 +1,14 @@
+C:\Users\grego\OneDrive\Escritorio\Github\Contar vocales\bin\Debug\net8.0\Contar vocales.exe
+C:\Users\grego\OneDrive\Escritorio\Github\Contar vocales\bin\Debug\net8.0\Contar vocales.deps.json
+C:\Users\grego\OneDrive\Escritorio\Github\Contar vocales\bin\Debug\net8.0\Contar vocales.runtimeconfig.json
+C:\Users\grego\OneDrive\Escritorio\Github\Contar vocales\bin\Debug\net8.0\Contar vocales.dll
+C:\Users\grego\OneDrive\Escritorio\Github\Contar vocales\bin\Debug\net8.0\Contar vocales.pdb
+C:\Users\grego\OneDrive\Escritorio\Github\Contar vocales\obj\Debug\net8.0\Contar vocales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grego\OneDrive\Escritorio\Github\Contar vocales\obj\Debug\net8.0\Contar vocales.AssemblyInfoInputs.cache
+C:\Users\grego\OneDrive\Escritorio\Github\Contar vocales\obj\Debug\net8.0\Contar vocales.AssemblyInfo.cs
+C:\Users\grego\OneDrive\Escritorio\Github\Contar vocales\obj\Debug\net8.0\Contar vocales.csproj.CoreCompileInputs.cache
+C:\Users\grego\OneDrive\Escritorio\Github\Contar vocales\obj\Debug\net8.0\Contar vocales.dll
+C:\Users\grego\OneDrive\Escritorio\Github\Contar vocales\obj\Debug\net8.0\refint\Contar vocales.dll
+C:\Users\grego\OneDrive\Escritorio\Github\Contar vocales\obj\Debug\net8.0\Contar vocales.pdb
+C:\Users\grego\OneDrive\Escritorio\Github\Contar vocales\obj\Debug\net8.0\Contar vocales.genruntimeconfig.cache
+C:\Users\grego\OneDrive\Escritorio\Github\Contar vocales\obj\Debug\net8.0\ref\Contar vocales.dll
